@@ -1,0 +1,16 @@
+.group form {
+  display: flex;
+  flex-direction: column;
+}
+
+.item {
+  margin-bottom: 18px;
+}
+
+button {
+  align-self: flex-start;
+}
+
+textarea {
+  height: 7rem;
+}
